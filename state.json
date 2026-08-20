@@ -4,8 +4,8 @@
     "time": "2026-08-18 17:58:59.999000+00:00"
   },
   "last_5m": {
-    "direction": null,
-    "time": null
+    "direction": "bearish",
+    "time": "2026-08-20 09:34:59.999000+00:00"
   },
   "last_alert_signature": null
 }
