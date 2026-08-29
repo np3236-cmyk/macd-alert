@@ -1,11 +1,11 @@
 {
   "last_1m": {
-    "direction": "bullish",
-    "time": "2026-08-23 18:58:59.999000+00:00"
+    "direction": "bearish",
+    "time": "2026-08-29 03:32:59.999000+00:00"
   },
   "last_5m": {
     "direction": "bullish",
-    "time": "2026-08-23 18:19:59.999000+00:00"
+    "time": "2026-08-29 03:14:59.999000+00:00"
   },
   "last_alert_signature": null
 }
